@@ -78,13 +78,23 @@ See [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/) for
 
 ## DH Tools for Publishing
 
-As the GIS section above noted, you can use the [ArcGIS StoryMaps](https://storymaps.arcgis.com/) platform to build interactive multimedia web projects. You can also use [TimelineJS](https://timeline.knightlab.com/) to build and share interactive timelines.
+### Mapping
+As the GIS section above noted, you can use the [ArcGIS StoryMaps](https://storymaps.arcgis.com/) platform to build interactive multimedia web projects. 
 
+### Timelines
+You can also use [TimelineJS](https://timeline.knightlab.com/) to build and share interactive timelines.
+
+### Websites
 If you are more interested in building your own website, [Wordpress](https://wordpress.com/) is a simple and free platform to do so. Alternatively, you can build simple sites for free via [GitHub](https://github.com/), which is where this document was written and hosted. GitHub repositories can be edited collaboratively. This particular page was written with a type of text encoding or formatting known as markdown. Markdown is very easy to pickup markup language for formatting text. [This cheat sheet](https://www.markdownguide.org/cheat-sheet/) is enough to make a similar webpage.
+
+### Multimedia: YouTube and Podcasting
 
 GitHub and Wordpress are excellent ways to build sites that host other forms of creative projects as well. For example, you may wish to record a podcast episode or series on a given topic. You can host your files with both of these sites. You can also embed timelines and maps with these sites. Another form of creative content production is to make a movie with free software like iMovie. You can then upload your video to YouTube and embed the video in your page with additional information that introduces it.
 
+### Alternatives to Your Own Website: Twitter, TikTok, and Wikipedia
 Three other alternative methods for publishing your research, especially in conjunction with a blog or GitHub page, are Twitter, TikTok, and Wikipedia. You may wish to publish a series of Tweets or TikToks about your research. These forms of self publication will reach a much wider audience than your blog alone. This is a great way to reach a massive audience and receive feedback from others. It is helpful, however, to have a blog or GitHub that explains your project in depth aside from these shorter publications. You could also either greatly expand a Wikipedia page on your research topic or create a new one if one does not exist. Again, you may wish to have a stand alone blog post or GitHub read me file that explains your project more broadly and highlights the contributions that you have made to expanding or creating that topic. Or, mix and match a variety of these methods. That's the beauty of DH. 
+
+### Interactive Web Presentation Publishing: Canva
 
 Another option for collaborative and interactive projects is [Canva](https://www.canva.com/), which has a free option. Canva will also let you make videos and combine text with other multimedia in a shareable format. You can find more out about how to use Canva with their [tutorial site](https://www.canva.com/designschool/tutorials/).
 
